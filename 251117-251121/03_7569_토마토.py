@@ -1,7 +1,7 @@
 
 
 
-
+## git thset
 ## main ##
 M, N, H= map(int, input().split()) # 가로, 세로, 높이
 box= [] # 토마토를 담은 곳
